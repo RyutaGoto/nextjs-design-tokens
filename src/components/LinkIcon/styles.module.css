@@ -1,0 +1,9 @@
+.wrapper {
+  padding-left: 8px;
+  .link_icon {
+    border: 0.0625rem solid #949497;
+    border-radius: 100px;
+    display: inline-flex;
+    padding: 0.1875rem 0.5rem;
+  }
+}
